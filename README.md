@@ -1,6 +1,6 @@
 # Flir_AX8
 
-## yCreated for educational purposes.
+## Created for educational purposes.
 You can find my Bachelor's thesis here: [LINK](https://digikogu.taltech.ee/et/Item/c58c0dcf-f5a6-4210-9108-4a259b3dee0e)
 
 Flir image extractor was used from https://github.com/Nervengift/read_thermal.py, no changes were used in file.
